@@ -1,0 +1,15 @@
+Student Grade Analyzer
+----------------------
+Total students: 10
+Average score: 74.6
+Highest score: 95
+Lowest score: 49
+Passing students: 8
+Failing students: 2
+
+Grade Distribution:
+A: 2
+B: 2
+C: 2
+D: 2
+F: 2
